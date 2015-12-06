@@ -4,10 +4,10 @@ Installation:
 
 1. Download package.
 
-2. Create DB and edit file `config/db.php`.
+2. Run command "composer install" from main project directory.
 
-3. Run command php yii migrate. It will create tables in your DB.
+3. Create DB and edit file `config/db.php`.
 
-4. Create folder uploads in web directory.
+4. Run command "php yii migrate". It will create tables in your DB.
 
-5. Ready to use.
+6. Ready to use.
